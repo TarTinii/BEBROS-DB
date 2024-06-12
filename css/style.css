@@ -642,9 +642,9 @@ body.dark-mode .pvp-card p {
 
 div.rarity{
 
-    display: block;
+    display: table;
     margin: auto;
-    left: 110px;
+    left: auto;
     position: relative;
 }
 .evolution h3 {
