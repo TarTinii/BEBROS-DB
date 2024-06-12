@@ -61,8 +61,11 @@ footer {
 
 .pa-icon {
 position: relative;
-    right: 13px;
-    top: -3px;
+    display: inline-block;
+    width: 100PX;
+    cursor: pointer;
+    right: 1097px;
+    top: 337px;
 }
 
     .pa-icon img {
