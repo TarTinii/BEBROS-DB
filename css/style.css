@@ -1,5 +1,3 @@
-/* Style de base */
-
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f8f9fa;
@@ -762,7 +760,6 @@ body.dark-mode .unit-stats th {
 
 @media (max-width: 768px) {
     .unit-details {
-        padding: 10px;
     }
 
     .unit-stats th, .unit-stats td {
