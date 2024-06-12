@@ -760,6 +760,8 @@ body.dark-mode .unit-stats th {
 
 @media (max-width: 768px) {
     .unit-details {
+    width: auto;
+    margin: auto;
     }
 
     .unit-stats th, .unit-stats td {
